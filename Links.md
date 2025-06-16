@@ -19,3 +19,25 @@
 [Visualización de Activaciones y Pesos](https://colab.research.google.com/drive/1r-3uAFXESwXzBeNAWY465FRrT3npyCro?usp=sharing)
 
 [Regularización Avanzada](https://colab.research.google.com/drive/1oNP0B9EQZbY8Tr65tz38V8La-EWIXioj?usp=sharing)
+
+
+#Clasificación I
+
+[Batch Training y Optimizadores](https://colab.research.google.com/drive/1GdbDE6QXXldpnff0fSMq_a7YF8OA_082?usp=sharing)
+
+[Inicialización de Pesos y Normalización](https://colab.research.google.com/drive/19PY5jsynk0xSWFdgwE_wnJjE3luoGirM?usp=sharing)
+
+[Visualización de Activaciones y Pesos](https://colab.research.google.com/drive/1r-3uAFXESwXzBeNAWY465FRrT3npyCro?usp=sharing)
+
+[Regularización Avanzada](https://colab.research.google.com/drive/1oNP0B9EQZbY8Tr65tz38V8La-EWIXioj?usp=sharing)
+
+
+#Clasificación II
+
+[Batch Training y Optimizadores](https://colab.research.google.com/drive/1GdbDE6QXXldpnff0fSMq_a7YF8OA_082?usp=sharing)
+
+[Inicialización de Pesos y Normalización](https://colab.research.google.com/drive/19PY5jsynk0xSWFdgwE_wnJjE3luoGirM?usp=sharing)
+
+[Visualización de Activaciones y Pesos](https://colab.research.google.com/drive/1r-3uAFXESwXzBeNAWY465FRrT3npyCro?usp=sharing)
+
+[Regularización Avanzada](https://colab.research.google.com/drive/1oNP0B9EQZbY8Tr65tz38V8La-EWIXioj?usp=sharing)
