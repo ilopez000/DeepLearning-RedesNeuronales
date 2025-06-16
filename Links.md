@@ -27,17 +27,17 @@
 
 [Preparación de Datos para la Clasificación](https://colab.research.google.com/drive/1dCAayeRAS7w9RngwvcVBk8S2W1LhY8Jr?usp=sharing)
 
-[VPrimer Modelo de Clasificación: Árboles de Decisión](https://colab.research.google.com/drive/1U9v0Azv7NUuGh9NsYS8Oq327pcRlivx5?usp=sharing)
+[Primer Modelo de Clasificación: Árboles de Decisión](https://colab.research.google.com/drive/1U9v0Azv7NUuGh9NsYS8Oq327pcRlivx5?usp=sharing)
 
 [Evaluación del Modelo de Clasificación](https://colab.research.google.com/drive/1t5I1ESfJtuuGlCmNdSWhZUcj36UY7mpQ?usp=sharing)
 
 
 #Clasificación II
 
-[Batch Training y Optimizadores](https://colab.research.google.com/drive/1GdbDE6QXXldpnff0fSMq_a7YF8OA_082?usp=sharing)
+[Sobreajuste y Regularización en Clasificación](https://colab.research.google.com/drive/1hP57VOw6VmpaTyJ2BER7141Ver6IpjKt?usp=sharing)
 
-[Inicialización de Pesos y Normalización](https://colab.research.google.com/drive/19PY5jsynk0xSWFdgwE_wnJjE3luoGirM?usp=sharing)
+[Validación Cruzada para Evaluación de Modelos](https://colab.research.google.com/drive/10lJoxBpfkp2FlXbnAUnYB71kpUF3xxRH?usp=sharing)
 
-[Visualización de Activaciones y Pesos](https://colab.research.google.com/drive/1r-3uAFXESwXzBeNAWY465FRrT3npyCro?usp=sharing)
+[Introducción a Redes Neuronales para Clasificación](https://colab.research.google.com/drive/1vTKDghrv9OwVUS0_arGn3EKiRaIIM0Na?usp=sharing)
 
-[Regularización Avanzada](https://colab.research.google.com/drive/1oNP0B9EQZbY8Tr65tz38V8La-EWIXioj?usp=sharing)
+[Ajuste de Hiperparámetros con Grid Search](https://colab.research.google.com/drive/16OYzmqMLclHY2XXBBc5fLHBL7UozPM9u?usp=sharing)
