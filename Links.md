@@ -1,3 +1,10 @@
+#Visualización de datos
+
+[Visualiza tus datos: Gráficos eficaces con Matplotlib](https://colab.research.google.com/drive/1Ld5wmM9zKreJ09hsNgOxGPJMZqVFiuZt?usp=sharing) 
+
+[Visualiza tus datos: Gráficos eficaces con Seaborn](https://colab.research.google.com/drive/17_e--ykam4aTA0cgSSjSTkykxrPPJ2eH?usp=sharing)
+
+
 #Deep Learning Redes Neuronales I
 
 [Introducción al Perceptrón Simple](https://colab.research.google.com/drive/1UpFUFS_EbHtN3UHZ1pG6eJTnYYWmM1wY?usp=sharing) 
