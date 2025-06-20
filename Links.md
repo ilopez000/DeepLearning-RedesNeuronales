@@ -1,3 +1,6 @@
+#Introducción a la IA
+[Introducción a la IA; Fundamentos y Aplicaciones](https://docs.google.com/presentation/d/1JKxkHpgmbD2zMeKky4iNZBMMpXMejNrw/edit?usp=sharing&ouid=113995405815868771059&rtpof=true&sd=true) 
+
 #Visualización de datos
 
 [Visualiza tus datos: Gráficos eficaces con Matplotlib](https://colab.research.google.com/drive/1Ld5wmM9zKreJ09hsNgOxGPJMZqVFiuZt?usp=sharing) 
