@@ -66,10 +66,10 @@
 
 #Regresión II
 
-[Sobreajuste y Regularización en Clasificación](https://colab.research.google.com/drive/1hP57VOw6VmpaTyJ2BER7141Ver6IpjKt?usp=sharing)
+[Diagnóstico de Modelo y Validación de Supuestos](https://colab.research.google.com/drive/1L9Ns_47ioQAyuYAPc7SfQxnrAHC6SUGu?usp=sharing)
 
-[Validación Cruzada para Evaluación de Modelos](https://colab.research.google.com/drive/10lJoxBpfkp2FlXbnAUnYB71kpUF3xxRH?usp=sharing)
+[Regresión Polinómica y Modelado No Lineal](https://colab.research.google.com/drive/1g88j13_UKlx_gnGpCrsJrHSZXWE5TjA8?usp=sharing)
 
-[Introducción a Redes Neuronales para Clasificación](https://colab.research.google.com/drive/1vTKDghrv9OwVUS0_arGn3EKiRaIIM0Na?usp=sharing)
+[Validación Cruzada y Selección de Características](https://colab.research.google.com/drive/1d_pQdc5ueiigBqmcrqjNRn8c7bqBoVxg?usp=sharing)
 
-[Ajuste de Hiperparámetros con Grid Search](https://colab.research.google.com/drive/16OYzmqMLclHY2XXBBc5fLHBL7UozPM9u?usp=sharing)
+[Regresión Robusta y Enfoques Bayesianos](https://colab.research.google.com/drive/1fMNZvTe6b-wG95aXcCJ67IXJnAF2I1iD?usp=sharing)
