@@ -52,3 +52,24 @@
 [Introducción a Redes Neuronales para Clasificación](https://colab.research.google.com/drive/1vTKDghrv9OwVUS0_arGn3EKiRaIIM0Na?usp=sharing)
 
 [Ajuste de Hiperparámetros con Grid Search](https://colab.research.google.com/drive/16OYzmqMLclHY2XXBBc5fLHBL7UozPM9u?usp=sharing)
+
+#Regresión I
+
+[Fundamentos Matemáticos de la Regresión Lineal](https://colab.research.google.com/drive/1ihzJVInZ7stkKJs3IQoflkf4ffS2YZ8_?usp=sharing)
+
+[Funciones de Pérdida y Optimización](https://colab.research.google.com/drive/12QMAfCA2H3BNfBenN7pfcc5h9EFisaJu?usp=sharing)
+
+[Regresión Lineal Simple con TensorFlow/Keras](https://colab.research.google.com/drive/1K2DKI57KfPv8PFD3Z_1zppct3HBUSwlI?usp=sharing)
+
+[Regresión Múltiple y Regularización](https://colab.research.google.com/drive/1pu6USdsx4Mm32ARaY2tAXbK2KRYYTpLf?usp=sharing)
+
+
+#Regresión II
+
+[Sobreajuste y Regularización en Clasificación](https://colab.research.google.com/drive/1hP57VOw6VmpaTyJ2BER7141Ver6IpjKt?usp=sharing)
+
+[Validación Cruzada para Evaluación de Modelos](https://colab.research.google.com/drive/10lJoxBpfkp2FlXbnAUnYB71kpUF3xxRH?usp=sharing)
+
+[Introducción a Redes Neuronales para Clasificación](https://colab.research.google.com/drive/1vTKDghrv9OwVUS0_arGn3EKiRaIIM0Na?usp=sharing)
+
+[Ajuste de Hiperparámetros con Grid Search](https://colab.research.google.com/drive/16OYzmqMLclHY2XXBBc5fLHBL7UozPM9u?usp=sharing)
