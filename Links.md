@@ -77,10 +77,21 @@
 
 #Redes Convolucionales I
 
-[Capas Convolucionales y de Pooling en Detalle](https://colab.research.google.com/drive/1NHYooT1yjNAwXuEgAbty0QwxDv4_IQ1s?usp=sharing)
+[Introducción a la Visión por Computador](https://colab.research.google.com/drive/154h5Otzlimlierh20OdxKaMsNQID7gqg?usp=sharing)
 
 [Fundamentos Biológicos y Evolución de las CNN](https://colab.research.google.com/drive/1tTC3PzbqeoiXuRi-3BqzvCJmkx2cKfLQ?usp=sharing)
 
 [Arquitectura de LeNet-5 y AlexNet](https://colab.research.google.com/drive/11F7H36VNCZ351L680sG8zc8uTidnIGkA?usp=sharing)
 
 [Representación de Imágenes y Preprocesamiento](https://colab.research.google.com/drive/10NpP0BL9OnbwPm5wPHDSU8MDXq87p25w?usp=sharing)
+
+
+#Redes Convolucionales II
+
+[Capas Convolucionales y de Pooling en Detalle](https://colab.research.google.com/drive/1NHYooT1yjNAwXuEgAbty0QwxDv4_IQ1s?usp=sharing)
+
+[Redes Convolucionales Avanzadas (VGGNet, ResNet)](https://colab.research.google.com/drive/1hEpKGOFLL-t6fdQ4_seeJN4gnvy2_Jhw?usp=sharing)
+
+[Transfer Learning en Redes Convolucionales](https://colab.research.google.com/drive/1qR8q1BDttADUrXKw1IsPeDWVGC5R5nzG?usp=sharing)
+
+[Aplicaciones Prácticas y Evaluación de CNNs](https://colab.research.google.com/drive/14XNNKZtghEpx5DEeGOliDdagvPhD9LMP?usp=sharing)
