@@ -73,3 +73,14 @@
 [Validación Cruzada y Selección de Características](https://colab.research.google.com/drive/1d_pQdc5ueiigBqmcrqjNRn8c7bqBoVxg?usp=sharing)
 
 [Regresión Robusta y Enfoques Bayesianos](https://colab.research.google.com/drive/1fMNZvTe6b-wG95aXcCJ67IXJnAF2I1iD?usp=sharing)
+
+
+#Redes Convolucionales I
+
+[Capas Convolucionales y de Pooling en Detalle](https://colab.research.google.com/drive/1NHYooT1yjNAwXuEgAbty0QwxDv4_IQ1s?usp=sharing)
+
+[Fundamentos Biológicos y Evolución de las CNN](https://colab.research.google.com/drive/1tTC3PzbqeoiXuRi-3BqzvCJmkx2cKfLQ?usp=sharing)
+
+[Arquitectura de LeNet-5 y AlexNet](https://colab.research.google.com/drive/11F7H36VNCZ351L680sG8zc8uTidnIGkA?usp=sharing)
+
+[Representación de Imágenes y Preprocesamiento](https://colab.research.google.com/drive/10NpP0BL9OnbwPm5wPHDSU8MDXq87p25w?usp=sharing)
