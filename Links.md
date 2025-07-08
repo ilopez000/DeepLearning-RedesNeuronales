@@ -95,3 +95,15 @@
 [Transfer Learning en Redes Convolucionales](https://colab.research.google.com/drive/1qR8q1BDttADUrXKw1IsPeDWVGC5R5nzG?usp=sharing)
 
 [Aplicaciones Prácticas y Evaluación de CNNs](https://colab.research.google.com/drive/14XNNKZtghEpx5DEeGOliDdagvPhD9LMP?usp=sharing)
+
+
+
+#Redes Residuales
+
+[El Desafío de la Profundidad y la Genialidad de las Redes Residuales](https://colab.research.google.com/drive/1O2lVFihkrg2utDZ8a2tufFN-A0JVIKdS?usp=sharing)
+
+[Construyendo un Bloque Residual en Python con TensorFlow y Keras](https://colab.research.google.com/drive/1zj_uKtSD0_mbiLK1ZA4bFYtaX0u0LENT?usp=sharing)
+
+[Ensamblando los Bloques para Construir una ResNet-50](https://colab.research.google.com/drive/1PO09Tk1-6K2ox0HyMKGcXQDuybXzfPcW?usp=sharing)
+
+[Entrenando y Evaluando la ResNet-50 en CIFAR-10](https://colab.research.google.com/drive/1fvJyUlgDcT7IXjtiMBdI0RcwNQPKRAov?usp=sharing)
