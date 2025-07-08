@@ -107,3 +107,14 @@
 [Ensamblando los Bloques para Construir una ResNet-50](https://colab.research.google.com/drive/1PO09Tk1-6K2ox0HyMKGcXQDuybXzfPcW?usp=sharing)
 
 [Entrenando y Evaluando la ResNet-50 en CIFAR-10](https://colab.research.google.com/drive/1fvJyUlgDcT7IXjtiMBdI0RcwNQPKRAov?usp=sharing)
+
+
+#GANs I
+
+[Introducción a las Redes Generativas Antagónicas (GANs)](https://colab.research.google.com/drive/1jPxZLpKY2dxqYTUUTIYse5Oq371KNZij?usp=sharing)
+
+[Estructura Matemática y Función de Pérdida](https://colab.research.google.com/drive/1LHqqQLjJWv57Mu8sikseJ4AT-coeHB7G?usp=sharing)
+
+[Implementación Básica del Generador y Discriminador](https://colab.research.google.com/drive/1L81YoydujbML1DjWNkx0fxKyk3YfWEFu?usp=sharing)
+
+[Entrenamiento Práctico y Visualización de Resultados](https://colab.research.google.com/drive/1-5cx2CPcR1mTq-o5WSH_9EaM2vsnNkZK?usp=sharing)
