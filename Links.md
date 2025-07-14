@@ -118,3 +118,14 @@
 [Implementación Básica del Generador y Discriminador](https://colab.research.google.com/drive/1L81YoydujbML1DjWNkx0fxKyk3YfWEFu?usp=sharing)
 
 [Entrenamiento Práctico y Visualización de Resultados](https://colab.research.google.com/drive/1-5cx2CPcR1mTq-o5WSH_9EaM2vsnNkZK?usp=sharing)
+
+
+#GANs II
+
+[Revisión y Profundización en las GANs](https://colab.research.google.com/drive/1G8JBTepvcY27a45mYg-gCCRlLH0bzlrW?usp=sharing)
+
+[Entrenamiento Práctico de una DCGAN](https://colab.research.google.com/drive/1i4TcXula2npc5xzIt_qVWIldg7Uj11XN?usp=sharing)
+
+[Entrenamiento, Evaluación y Generación](https://colab.research.google.com/drive/1fGDKYuVpntD1afXDJjWJv2p5hVOy-KN-?usp=sharing)
+
+[cGANs, Espacio Latente y Aplicaciones](https://colab.research.google.com/drive/1ZjWNw7dM3T2QxC-Wbk-3bIlrVUE0jDTj?usp=sharing)
