@@ -129,3 +129,14 @@
 [Entrenamiento, Evaluación y Generación](https://colab.research.google.com/drive/1fGDKYuVpntD1afXDJjWJv2p5hVOy-KN-?usp=sharing)
 
 [cGANs, Espacio Latente y Aplicaciones](https://colab.research.google.com/drive/1ZjWNw7dM3T2QxC-Wbk-3bIlrVUE0jDTj?usp=sharing)
+
+
+#Redes Neuronales Recurrentes
+
+[Fundamentos de las Redes Neuronales Recurrentes](https://colab.research.google.com/drive/1xT4iNIc_Sx6HPUeddBHMTRPnf5ZDg38g?usp=sharing)
+
+[RNN con Frameworks de Deep Learning](https://colab.research.google.com/drive/1AAX0ZLtj3TaFDYzs61zX-AFGaizAs-eE?usp=sharing)
+
+[Redes Avanzadas: LSTM y GRU](https://colab.research.google.com/drive/1_SSP-0IxnBbKVcLj6_VkBp1kCamfq8X7?usp=sharing)
+
+[Aplicación Práctica - Generación de Texto](https://colab.research.google.com/drive/1Y3xTShyCrmwTwyDvLi3PxmLJTXXLW1vN?usp=sharing)
