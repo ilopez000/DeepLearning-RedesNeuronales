@@ -140,3 +140,14 @@
 [Redes Avanzadas: LSTM y GRU](https://colab.research.google.com/drive/1_SSP-0IxnBbKVcLj6_VkBp1kCamfq8X7?usp=sharing)
 
 [Aplicación Práctica - Generación de Texto](https://colab.research.google.com/drive/1Y3xTShyCrmwTwyDvLi3PxmLJTXXLW1vN?usp=sharing)
+
+
+#Aprendizaje por Refuerzo I
+
+[Introducción al Aprendizaje por Refuerzo](https://colab.research.google.com/drive/1hq8GmCNTUYAiXd4Bha0LcczVqvcOXwHD?usp=sharing)
+
+[Implementación del Entorno FrozenLake con Gymnasium](https://colab.research.google.com/drive/1HU61aogI15XMhD8OKhoyah-08B-yhrpi?usp=sharing)
+
+[Algoritmo de Aprendizaje - Q-Learning Básic](https://colab.research.google.com/drive/1J7AxKNZIoH04r992oQpmha5IRAeaH5DF?usp=sharing)
+
+[Visualización y Ajuste de Parámetros](https://colab.research.google.com/drive/1LNIenHm78nNUuORPKtxeaEuyds43xvhP?usp=sharing)
