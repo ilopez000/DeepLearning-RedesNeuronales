@@ -151,3 +151,13 @@
 [Algoritmo de Aprendizaje - Q-Learning Básic](https://colab.research.google.com/drive/1J7AxKNZIoH04r992oQpmha5IRAeaH5DF?usp=sharing)
 
 [Visualización y Ajuste de Parámetros](https://colab.research.google.com/drive/1LNIenHm78nNUuORPKtxeaEuyds43xvhP?usp=sharing)
+
+#Aprendizaje por Refuerzo II
+
+[Limitaciones del Q-Learning Tabular](https://colab.research.google.com/drive/1h_q_Je5FNSF1Fjl61EBjIf3OvkggFJBh?usp=sharing)
+
+[Construcción de un Deep Q-Network (DQN) Simple](https://colab.research.google.com/drive/1pBgqJW8zh8-s8YSSKIT1gcyTOCHLed93?usp=sharing)
+
+[Entrenamiento del Agente DQN en FrozenLake](https://colab.research.google.com/drive/1tWEg68r2N2dSJsuL7tQoOEaoQh-jFVFr?usp=sharing)
+
+[Extensiones y Mejoras del DQN](https://colab.research.google.com/drive/19BM0WDr9BNAtmN8_T9gj4iMMLR3JIXEs?usp=sharing)
