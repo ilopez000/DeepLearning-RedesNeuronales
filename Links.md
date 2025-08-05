@@ -161,3 +161,12 @@
 [Entrenamiento del Agente DQN en FrozenLake](https://colab.research.google.com/drive/1tWEg68r2N2dSJsuL7tQoOEaoQh-jFVFr?usp=sharing)
 
 [Extensiones y Mejoras del DQN](https://colab.research.google.com/drive/19BM0WDr9BNAtmN8_T9gj4iMMLR3JIXEs?usp=sharing)
+
+#Despliegue de Modelos I
+[Cargar Modelos Pre-entrenados en Deep Learning](https://colab.research.google.com/drive/1t69pfM1bW_5BFc-9TjYYKD_3ERa1LoKX?usp=sharing)
+
+[Creación de una API REST sencilla con Flask](https://colab.research.google.com/drive/1Ti_Z0nd6bLSm4m7BpgXo3lsMCbaa-iWD?usp=sharing)
+
+[Testing Local de la API con Herramientas Externas](https://colab.research.google.com/drive/14g-1s0XNEBMhKmrB68AucPYXpSrslJtd?usp=sharing)
+
+[Preparación del Entorno para Despliegue en Nube](https://colab.research.google.com/drive/1n2AuHR9h6ocPfNoFifcHmk8dHAKnjCAb?usp=sharing)
