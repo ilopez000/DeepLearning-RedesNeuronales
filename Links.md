@@ -171,3 +171,15 @@
 [Testing Local de la API con Herramientas Externas](https://colab.research.google.com/drive/14g-1s0XNEBMhKmrB68AucPYXpSrslJtd?usp=sharing)
 
 [Preparación del Entorno para Despliegue en Nube](https://colab.research.google.com/drive/1n2AuHR9h6ocPfNoFifcHmk8dHAKnjCAb?usp=sharing)
+
+
+#Despliegue de Modelos II
+
+
+[Manos a la Obra con Docker](https://colab.research.google.com/drive/1EmZ87xif88im86e9v35XEu9heNWDj5xJ?usp=sharing)
+
+[De Docker a la Nube: Despliegue en Google Cloud Run](https://colab.research.google.com/drive/1E_tMbi4Tp2H3iI90kRMTL8WrEBgNcluY?usp=sharing)
+
+[Probando Nuestra API en la Nube](https://colab.research.google.com/drive/1oJWyZVhMBO5grDMUhQOe-YyzmmEpfKkr?usp=sharing)
+
+[Despliegue y Mantenimiento: Buenas Prácticas de Producción](https://colab.research.google.com/drive/1ukWF4AgeP4zdSuV_CfNBpPuN0WzVIFKx?usp=sharing)
